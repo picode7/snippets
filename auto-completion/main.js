@@ -18,3 +18,4 @@ el.addEventListener('input', (e) => {
 // TODO: auto complete if text starts with '@' and partial tag
 // TODO: support multiple tags
 // TODO: same functionality for `#` with multiple options
+// TODO: properly include in undo/redo
